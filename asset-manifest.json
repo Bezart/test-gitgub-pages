@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-gitgub-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/test-gitgub-pages/static/js/main.e7d0062e.js",
+    "main.js": "/test-gitgub-pages/static/js/main.b769d45f.js",
     "static/js/787.bc7d429a.chunk.js": "/test-gitgub-pages/static/js/787.bc7d429a.chunk.js",
     "index.html": "/test-gitgub-pages/index.html",
     "main.e6c13ad2.css.map": "/test-gitgub-pages/static/css/main.e6c13ad2.css.map",
-    "main.e7d0062e.js.map": "/test-gitgub-pages/static/js/main.e7d0062e.js.map",
+    "main.b769d45f.js.map": "/test-gitgub-pages/static/js/main.b769d45f.js.map",
     "787.bc7d429a.chunk.js.map": "/test-gitgub-pages/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e7d0062e.js"
+    "static/js/main.b769d45f.js"
   ]
 }
